@@ -4,3 +4,4 @@
 ![2](https://user-images.githubusercontent.com/101417124/217846160-92b68562-6747-41a7-85db-402d98ee9a91.png)
 
 Project is based on Inuwa Ibrahim Project todo app with adjusment on different laravel version 9.
+Read how to run the project on file How-to-run-project.txt
